@@ -38,15 +38,11 @@ git clone https://github.com/chendkapure-vansh/basketball-scoreboard.git
 
 3. Double-click **index.html** or open it in your preferred web browser.
 
+
+```md id="fix1"
 ## 📸 Project Preview
 
-*Add a screenshot of your application here.*
-
-Example:
-
-```md
 ![Basketball Scoreboard](images/scoreboard.png)
-```
 
 ## 🎯 Learning Outcomes
 
