@@ -42,7 +42,7 @@ git clone https://github.com/chendkapure-vansh/basketball-scoreboard.git
 ```md id="fiximg"
 ## 📸 Project Preview
 
-![Basketball Scoreboard](images/scoreboard.png)
+![Basketball Scoreboard](./images/scoreboard.png)
 
 ## 🎯 Learning Outcomes
 
