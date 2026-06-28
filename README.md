@@ -39,7 +39,7 @@ git clone https://github.com/chendkapure-vansh/basketball-scoreboard.git
 3. Double-click **index.html** or open it in your preferred web browser.
 
 
-```md id="fix1"
+```md id="fiximg"
 ## 📸 Project Preview
 
 ![Basketball Scoreboard](images/scoreboard.png)
